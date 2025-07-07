@@ -1,0 +1,13 @@
+# Fichiers Python compilés
+*.pyc
+__pycache__/
+
+# Répertoires de build
+build/
+dist/
+
+# Fichiers log
+*.log
+
+# Environnements virtuels
+venv/
